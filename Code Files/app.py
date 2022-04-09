@@ -76,7 +76,7 @@ def searchterm(term, df):
     return top6
 
 
-# extract features from the recommended dataframe1
+# extract features from the recommended dataframe
 
 def extractfeatures(recdf):
 
